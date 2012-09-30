@@ -6,7 +6,7 @@
 
 ## CSS Instructions
 
-1. Create and link the main.css file and stylize the two elements <p> <h1> tags on the page
+1. Create and link the main.css file and stylize the two tags on the page, h1 and p
 
 - set the h1 font size to 18px
 - set the p font size to 15px with a line-height of 1.6
